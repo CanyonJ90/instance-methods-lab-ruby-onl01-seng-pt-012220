@@ -8,4 +8,5 @@ class Dog
 end
  
 fido = Dog.new
-fido.method
+fido.bark
+fido.sit
