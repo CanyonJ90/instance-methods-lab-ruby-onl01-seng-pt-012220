@@ -4,4 +4,3 @@ class Person
  end
 end
 
-Person.walk = " The Person is walking"
