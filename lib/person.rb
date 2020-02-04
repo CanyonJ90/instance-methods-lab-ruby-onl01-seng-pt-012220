@@ -1,5 +1,5 @@
 class Person
-  Person.talk
+ talk
   puts "HEllo World!"
  end
 end
